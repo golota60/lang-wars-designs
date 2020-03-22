@@ -1,6 +1,10 @@
 # lang-wars-designs
 A draft design for the lang-wars(https://github.com/golota60/lang-wars) application.
 
+## Draft Styleguide
+
+![Styleguide](https://github.com/golota60/lang-wars-designs/blob/master/assets/Styleguide.png)
+
 ## Login Page
 
 FullHD 1920x1080
